@@ -1748,7 +1748,9 @@ UI design didn’t take as long as estimated. Client implementation also
 took longer than initially planned.
 
 Whilst the project took longer than planned, it was still finished by
-the deadline.hhh
+the deadline.
+
+# Bibliography
 
 [1] Forging SSL Certificates, Schneier on Security,
 <https://www.schneier.com/blog/archives/2008/12/forging_ssl_cer.html>
